@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset = "UTF-8">
+<title></title>
+
+</head>
+
+<body>
+     
+     <header>
+          <h1>Osman Zahid</h1>
+     </header>
+	 <ul>
+	 <li><a href="/WEB_PROJECT/TESTING.HTML">TESTING</li>
+	 <li>Education</li>
+	 </ul>
+<p>Hello, I am Osman and this is my second web development class. Best part to this course is that we are using GitHub, GitHub is something worth to have your hands on.
+</p>
+
+</body>
+</html>
